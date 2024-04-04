@@ -1,6 +1,6 @@
 <h1 align="center"> Junior Web Developer</h1>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/DorianeML?style=social)
+![Twitter](https://img.shields.io/twitter/follow/DorianeML?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/Doriane23?style=social)
 
 ## Introduction
@@ -64,6 +64,6 @@ Welcome to my World ! 🌐
 </p>
 
 
-<a href="https://app.daily.dev/ned2304"><img src="https://api.daily.dev/devcards/v2/4ImQVgTWvCw2ztingadTW.png?type=default&r=p5z" width="356" alt="Doriane ML's Dev Card"/></a>
+<a href="https://app.daily.dev/ned2304" align="center"><img src="https://api.daily.dev/devcards/v2/4ImQVgTWvCw2ztingadTW.png?type=default&r=p5z" width="356" alt="Doriane ML's Dev Card"/></a>
 
 <!-- Markdown -->
