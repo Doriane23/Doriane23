@@ -9,8 +9,6 @@ Hi ! 👋
 I'm Doriane and I'm currently in a career transition to become a web developper ! 
 Welcome to my World ! 🌐
 
-<img src="https://raw.githubusercontent.com/GorskiAnthony/GorskiAnthony/output/snake.svg" alt="Snake animation" />
-
 ## Languages
 
 <p>
